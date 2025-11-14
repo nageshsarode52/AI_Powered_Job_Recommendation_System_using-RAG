@@ -1,0 +1,11 @@
+title,company,location,job_type,seniority,description,url
+Data Analyst Intern,NextGen Analytics,"Bengaluru, India",Internship,Intern,"Assist with data cleaning, SQL querying, building dashboards in PowerBI, Excel and Python (pandas). Basic stats and visualizations required.",https://example.com/job/1
+Junior Data Scientist,Insight Labs,"Hyderabad, India",Full-time,Entry,"Work on supervised ML models, feature engineering, data pipelines. Python, pandas, scikit-learn required. Some experience with SQL and model evaluation.",https://example.com/job/2
+Business Intelligence Analyst,CommerceCorp,"Mumbai, India",Full-time,Mid,"Build and maintain dashboards in PowerBI, support stakeholders with metrics, SQL skills required, familiarity with ETL processes a plus.",https://example.com/job/3
+Machine Learning Intern,AIWorks,Remote,Internship,Intern,"Prototype ML models, experiment with neural nets, basic knowledge of PyTorch/TensorFlow preferred. Strong math fundamentals a plus.",https://example.com/job/4
+Data Engineer (Entry),ScaleData,"Pune, India",Full-time,Entry,"Work on ETL pipelines, Python scripting, SQL, experience with Airflow or similar orchestration helpful.",https://example.com/job/5
+Product Analyst,Prodify,"Bengaluru, India",Full-time,Mid,"Analyze product metrics, A/B test analysis, SQL, Excel and dashboarding skills. Collaboration with PMs and data teams.",https://example.com/job/6
+Research Intern - NLP,LinguaAI,"Mumbai, India",Internship,Intern,"Work on NLP tasks, text pre-processing, transformers. Familiarity with Hugging Face and Python required.",https://example.com/job/7
+Excel-Based Reporting Analyst,RetailSense,"Chennai, India",Contract,Entry,"Maintain sales reports using Excel, pivot tables, VLOOKUP/XLOOKUP. Basic SQL is a bonus.",https://example.com/job/8
+AI Research Assistant,VisionTech,"Bengaluru, India",Full-time,Mid,"Work on computer vision pipelines, dataset curation, and model training. Python, OpenCV and PyTorch experience needed.",https://example.com/job/9
+Marketing Data Analyst,AdMetrics,Remote,Part-time,Entry,"Analyze campaign data, Google Analytics, SQL reporting, and visualization for marketing teams.",https://example.com/job/10

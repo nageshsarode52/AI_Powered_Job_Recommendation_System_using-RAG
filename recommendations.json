@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Data Analyst Intern",
+    "company": "NextGen Analytics",
+    "location": "Bengaluru, India",
+    "url": "https://example.com/job/1",
+    "why": "Retrieved by semantic similarity to your profile (skills & location).",
+    "match_score": 100,
+    "suggested_skills": "N/A"
+  },
+  {
+    "title": "Junior Data Scientist",
+    "company": "Insight Labs",
+    "location": "Hyderabad, India",
+    "url": "https://example.com/job/2",
+    "why": "Retrieved by semantic similarity to your profile (skills & location).",
+    "match_score": 66,
+    "suggested_skills": "N/A"
+  },
+  {
+    "title": "Business Intelligence Analyst",
+    "company": "CommerceCorp",
+    "location": "Mumbai, India",
+    "url": "https://example.com/job/3",
+    "why": "Retrieved by semantic similarity to your profile (skills & location).",
+    "match_score": 66,
+    "suggested_skills": "N/A"
+  },
+  {
+    "title": "Data Engineer (Entry)",
+    "company": "ScaleData",
+    "location": "Pune, India",
+    "url": "https://example.com/job/5",
+    "why": "Retrieved by semantic similarity to your profile (skills & location).",
+    "match_score": 55,
+    "suggested_skills": "N/A"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Prodify",
+    "location": "Bengaluru, India",
+    "url": "https://example.com/job/6",
+    "why": "Retrieved by semantic similarity to your profile (skills & location).",
+    "match_score": 41,
+    "suggested_skills": "N/A"
+  }
+]
